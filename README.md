@@ -1,5 +1,5 @@
 # Bootstrap v.1.0
-<img src="https://raw.github.com/r4nd1/template-cpanel-devoops-02/master/screenshot.jpeg" width="900">
+<img src="https://raw.github.com/r4nd1/template-cpanel-bootstrap-01/master/screenshot.jpg" width="900">
 
 ## Uploader
 * Name: Randy Riolis
